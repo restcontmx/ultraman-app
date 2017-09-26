@@ -1,0 +1,7 @@
+{
+    "name"    : "ultraman-app",
+    "version" : "0.1.0",
+    "main"    : "main.js",
+    "license" : "MIT",
+    "description" : "Ultra man desktop application."
+  }
